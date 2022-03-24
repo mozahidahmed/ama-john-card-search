@@ -1,0 +1,37 @@
+.product{
+width: 300px;
+height: 580px;
+border-radius: 8px;
+margin: 7px;
+margin-top: 30px;
+border: 1px solid #95A0A7;
+position: relative;
+}
+
+.product img{
+width: 286px;
+height: 286px;
+padding: 7px;
+
+}
+
+.name{
+    padding: 7px;
+}
+
+
+.Btn-my{
+    width: 100%;
+    background-color: burlywood;
+    border-radius: 10px;
+    border: none;
+    position: absolute;
+    bottom: 0;
+}
+.Btn-my h3{
+color: rgb(15, 15, 15);
+
+}
+.Btn-my:hover{
+    background-color: orange;
+}
